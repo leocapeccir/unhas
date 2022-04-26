@@ -1,0 +1,15 @@
+.rodape{
+    border-top: solid black 1px;
+    ;
+  
+  }
+  .rodape__texto{
+    padding-top: 15px;
+    font-family: 'Updock', cursive;
+    font-size: 5.5rem;
+    color: black;
+    text-align: center;
+    transition: 1s;
+    
+  }
+  
